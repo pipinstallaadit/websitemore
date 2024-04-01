@@ -1,0 +1,53 @@
+#myphoto{
+    border-radius: 50%;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+    background-color:aliceblue;
+}
+.photogal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+   
+}
+.memories{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vjti{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+.work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bot{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.proj{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
